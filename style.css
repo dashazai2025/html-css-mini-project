@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #7E6CF5;
+}
+
+.block {
+    background-color: #a394ff;
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    border-radius: 0px 0px 80px 80px;
+    border: 2px solid white;
+    text-align: center;
+    box-shadow: 0px 0px 20px white, 0px 0px 20px white, 0px 0px 40px white;
+    margin-top: -2px;
+    border-color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-shadow: 0px 0px 2px white;
+    font-size: 25px;
+    margin-inline: 50px;
+    margin-top: 50px;
+    text-shadow: 0px 0px 15px;
+
+}
+
+.main {
+    background-color: #a394ff;
+    width: 1100px;
+    height: 530px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 70px;
+    box-shadow: 0px 0px 20px white, 0px 0px 30px white, 0px 0px 40px white;
+    border-color: white;
+}
+
+main1 {
+    position: relative;
+}
+
+img {
+    width: 500px;
+    height: 450px;
+    border-radius: 20px;
+    margin: 50px;
+    box-shadow: 0px 0px 20px black;
+    float: left;
+}
+
+h1 {
+    color: white;
+    font-weight: 70px;
+    font-size: 50px;
+}
+
+main2 {
+    display: inline-block;
+    position: absolute;
+    padding-top: 30px;
+
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+h2 span {
+    color: white;
+    font-weight: 100;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+    line-height: 20px;
+}
