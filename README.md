@@ -1,30 +1,26 @@
-# HTML/CSS Mini Project
+# HTML/CSS Profile Card Page
+## Screenshot
 
+![Page screenshot](screenshots/html-css-page-screenshot.png)
 ## Description
 
 This is a small static web page built with HTML and CSS.  
-The project demonstrates basic page structure, styling, layout, and working with images.
+The project demonstrates layout design, styling, working with images, typography, spacing, and visual effects.
 
 ## Features
 
-- HTML page structure
+- Static profile card layout
+- Navigation bar
+- Image block
+- Text content section
 - CSS styling
-- Custom layout
-- Image usage
-- Basic visual design
+- Rounded corners and shadow effects
+- Custom color palette
 
 ## Technologies
 
 - HTML5
 - CSS3
-
-## Project Structure
-
-- `index.html` — main page structure
-- `style.css` — main styles
-- `reset.css` — CSS reset file
-- `ooo.png` — image used in the project
-- `uuu.webp` — image used in the project
 
 ## How to View
 
@@ -32,7 +28,7 @@ Open `index.html` in a browser.
 
 ## Future Improvements
 
-- Add responsive design improvements
+- Add responsive design
+- Replace placeholder links with real navigation
 - Add JavaScript interactivity
-- Improve animations and hover effects
-- Add more sections to the page
+- Improve mobile layout
